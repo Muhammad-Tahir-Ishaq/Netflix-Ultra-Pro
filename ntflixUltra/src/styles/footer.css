@@ -1,0 +1,20 @@
+/* Add your styles in Footer.css or any other stylesheet */
+.footer-container {
+  margin: 0 auto; /* Centers the container horizontally */
+  padding: 20px; /* Adds some padding around the container */
+  max-height: 960px; /* Limits the maximum width of the container */
+  background-color: black;
+}
+
+footer {
+  padding: 20px 0; /* Adds padding above and below the footer */
+  margin-top: 40px; /* Adds some space between the footer and the content above */
+}
+
+.text-center {
+  text-align: center; /* Centers the text within its container */
+}
+
+.text-muted {
+  color: #999; /* Sets the text color to a muted gray */
+}

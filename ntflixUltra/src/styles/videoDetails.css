@@ -1,0 +1,17 @@
+.apni-mrzi-ki-height{
+    max-height: 100px;
+}
+
+.inline-with-title{
+    position: relative;
+    bottom: 34px ;
+    left: 250px ;
+}
+
+
+.pos-bottom{
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    
+}
